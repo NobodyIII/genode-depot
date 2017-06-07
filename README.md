@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Ben Larson's Genode Depot
 
-You can use the [editor on GitHub](https://github.com/NobodyIII/genode-depot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently, this just contains x86_64 builds of almost all the official Genode packages. Unfortunately, I haven't been able to setup a viewer so you can see what files I have, so just look at depot.genode.org and use the same names.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+libpng and zlib currently aren't included, due to inconsistent versioning in the official genode depot.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NobodyIII/genode-depot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Later, I will add some of my own packages, including a file manager.
