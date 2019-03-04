@@ -1,0 +1,2 @@
+TARGET = ld
+LIBS = ld
