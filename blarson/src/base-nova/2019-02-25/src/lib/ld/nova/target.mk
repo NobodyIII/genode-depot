@@ -1,2 +1,0 @@
-TARGET = ld
-LIBS = ld

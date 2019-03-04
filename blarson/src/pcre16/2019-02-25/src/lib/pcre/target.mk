@@ -1,1 +1,0 @@
-LIBS = pcre16

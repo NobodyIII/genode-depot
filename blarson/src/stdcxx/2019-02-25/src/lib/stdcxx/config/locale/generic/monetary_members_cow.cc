@@ -1,1 +1,0 @@
-monetary_members.cc

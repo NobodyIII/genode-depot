@@ -1,1 +1,0 @@
-../../config/locale/generic/c_locale.h

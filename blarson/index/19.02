@@ -1,9 +1,0 @@
-<index>
-
-  <index name="Tools">
-    <pkg path="blarson/pkg/file_manager_qt/2019-03-03" info="Qt5-based file manager"/>
-    <pkg path="blarson/pkg/text_editor_qt/2019-03-03" info="Qt5-based plain text editor"/>
-  </index>
-
-</index>
-
